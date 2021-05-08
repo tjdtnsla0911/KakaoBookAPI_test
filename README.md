@@ -1,16 +1,6 @@
-# http_example
-
-Fuck you
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# 2021-05-08 21시 51분
+```
+RestAPI Key는 가렸습니다 ㅎㅎ
+IOS는 cupertino 공부하는중인데 에뮬레이터도 안되고 아이폰도없어서
+구현없이 연습만 쬐에에에끔 하는즁 ( 여긴안햇음)
+```
